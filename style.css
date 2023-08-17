@@ -7,15 +7,15 @@
 
 header {
     display: flex;
-    position:relative;
+    position: relative;
     background: #FFF;
     width: 1600px;
     height: 80px;
 }
 
 .text {
-    left:150px;
-    position:absolute;
+    left: 150px;
+    position: absolute;
     color: #2196F3;
     font-family: Raleway;
     font-size: 26px;
@@ -26,7 +26,7 @@ header {
 }
 
 span {
-    position:absolute;
+    position: absolute;
     color: #000;
     font-family: Raleway;
     font-size: 26px;
@@ -37,7 +37,7 @@ span {
 }
 
 .studio {
-    position:absolute;
+    position: absolute;
     left: 350px;
     top: 10px;
     color: #2196F3;
@@ -50,7 +50,7 @@ span {
 }
 
 .section {
-    position:absolute;
+    position: absolute;
     left: 450px;
     top: 10px;
     color: #212121;
@@ -63,7 +63,7 @@ span {
 }
 
 .contacts {
-    position:absolute;
+    position: absolute;
     left: 550px;
     top: 10px;
     color: #212121;
@@ -76,7 +76,7 @@ span {
 }
 
 .email {
-    position:absolute;
+    position: absolute;
     left: 1200px;
     top: 10px;
     color: #2196F3;
@@ -89,7 +89,7 @@ span {
 }
 
 .number {
-    position:absolute;
+    position: absolute;
     left: 1350px;
     top: 10px;
     color: #757575;
